@@ -1,6 +1,6 @@
 
 
-#  Shopify Ecommerce (React + Vite + CSS)
+#  Shop Ecommerce (React + Vite + CSS)
 A simple and responsive Shopify Clone built with React, Vite, and CSS. This project simulates an e-commerce shopping experience with modern UI and essential features like product listings, cart functionality, and smooth navigation.
 
 🔗 Live Demo:Shopify(https://shopify-clone-orcin.vercel.app/)
